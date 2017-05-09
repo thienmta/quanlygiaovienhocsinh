@@ -64,6 +64,7 @@ namespace WindowsFormsApplication1
             tkgvcn.Show();
         }
 
+<<<<<<< HEAD
         private void sinhViênToolStripMenuItem_Click(object sender, EventArgs e)
         {
             THONGKEHOCSINH thongke = new THONGKEHOCSINH();
@@ -73,5 +74,11 @@ namespace WindowsFormsApplication1
        
 
       
+=======
+        private void Trangchu_Load(object sender, EventArgs e)
+        {
+
+        }
+>>>>>>> origin/master
     }
 }

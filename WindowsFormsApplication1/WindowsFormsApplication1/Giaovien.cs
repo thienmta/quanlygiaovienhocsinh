@@ -13,7 +13,11 @@ namespace WindowsFormsApplication1
 {
     public partial class GiaoVien : Form
     {
+<<<<<<< HEAD
         string strConn = @"Data Source=HAPRO955\SQLEXPRESS; Database=QuanLiGiaoVienHocSinh; Integrated Security=True";
+=======
+        string strConn = "Data Source=.\\SQLEXPRESS; Initial Catalog = QUANLYGIAOVIENHOCSINH; Integrated Security = True";
+>>>>>>> origin/master
         SqlConnection conn = null;
         void LoadData()
         {

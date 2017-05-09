@@ -13,7 +13,7 @@ namespace WindowsFormsApplication1
 {
     public partial class TimKiemHocSinh : Form
     {
-        string strConn = "Data Source=SRI8203Z3VDW2GR; Initial Catalog = QUANLYGIAOVIENHOCSINH; Integrated Security = True";
+        string strConn = "Data Source=.\\SQLEXPRESS; Initial Catalog = QUANLYGIAOVIENHOCSINH; Integrated Security = True";
         SqlConnection conn = null;
         void LoadData()
         {
