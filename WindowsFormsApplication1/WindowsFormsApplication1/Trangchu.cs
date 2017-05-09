@@ -63,5 +63,10 @@ namespace WindowsFormsApplication1
             TimKiemGiaoVienChuNhiem tkgvcn = new TimKiemGiaoVienChuNhiem();
             tkgvcn.Show();
         }
+
+        private void Trangchu_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
