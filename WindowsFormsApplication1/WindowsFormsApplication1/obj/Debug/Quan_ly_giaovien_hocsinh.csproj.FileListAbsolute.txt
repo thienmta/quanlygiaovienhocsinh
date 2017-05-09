@@ -14,3 +14,20 @@ C:\Users\Administrator\Documents\bai_tap_lt_slide_nhat_nghe\WindowsFormsApplicat
 C:\Users\Administrator\Documents\bai_tap_lt_slide_nhat_nghe\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TimKiemHocSinh.resources
 C:\Users\Administrator\Documents\bai_tap_lt_slide_nhat_nghe\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TimKiemGiaoVien.resources
 C:\Users\Administrator\Documents\bai_tap_lt_slide_nhat_nghe\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TimKiemGiaoVienChuNhiem.resources
+E:\năm 3\học kì 2\thực tập nhóm\GITHUB\quanlygiaovienhocsinh\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\năm 3\học kì 2\thực tập nhóm\GITHUB\quanlygiaovienhocsinh\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\năm 3\học kì 2\thực tập nhóm\GITHUB\quanlygiaovienhocsinh\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\năm 3\học kì 2\thực tập nhóm\GITHUB\quanlygiaovienhocsinh\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Quan_ly_giaovien_hocsinh.csprojResolveAssemblyReference.cache
+E:\năm 3\học kì 2\thực tập nhóm\GITHUB\quanlygiaovienhocsinh\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Bomon.resources
+E:\năm 3\học kì 2\thực tập nhóm\GITHUB\quanlygiaovienhocsinh\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GiaoVien.resources
+E:\năm 3\học kì 2\thực tập nhóm\GITHUB\quanlygiaovienhocsinh\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Hocsinh.resources
+E:\năm 3\học kì 2\thực tập nhóm\GITHUB\quanlygiaovienhocsinh\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LopHoc.resources
+E:\năm 3\học kì 2\thực tập nhóm\GITHUB\quanlygiaovienhocsinh\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TimKiemGiaoVien.resources
+E:\năm 3\học kì 2\thực tập nhóm\GITHUB\quanlygiaovienhocsinh\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TimKiemGiaoVienChuNhiem.resources
+E:\năm 3\học kì 2\thực tập nhóm\GITHUB\quanlygiaovienhocsinh\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TimKiemHocSinh.resources
+E:\năm 3\học kì 2\thực tập nhóm\GITHUB\quanlygiaovienhocsinh\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Trangchu.resources
+E:\năm 3\học kì 2\thực tập nhóm\GITHUB\quanlygiaovienhocsinh\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\năm 3\học kì 2\thực tập nhóm\GITHUB\quanlygiaovienhocsinh\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Quan_ly_giaovien_hocsinh.csproj.GenerateResource.Cache
+E:\năm 3\học kì 2\thực tập nhóm\GITHUB\quanlygiaovienhocsinh\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\năm 3\học kì 2\thực tập nhóm\GITHUB\quanlygiaovienhocsinh\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\năm 3\học kì 2\thực tập nhóm\GITHUB\quanlygiaovienhocsinh\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.THONGKEHOCSINH.resources

@@ -63,5 +63,15 @@ namespace WindowsFormsApplication1
             TimKiemGiaoVienChuNhiem tkgvcn = new TimKiemGiaoVienChuNhiem();
             tkgvcn.Show();
         }
+
+        private void sinhViênToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            THONGKEHOCSINH thongke = new THONGKEHOCSINH();
+            thongke.Show();
+        }
+
+       
+
+      
     }
 }
